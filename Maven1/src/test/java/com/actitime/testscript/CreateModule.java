@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class CreateModule {
 	@Test
-public  void CreateCustomer() {
+public  void CreateCustomersss() {
 	Reporter.log("CreateCustomer",true);
 	
 }
