@@ -9,4 +9,9 @@ public  void CreateCustomer() {
 	Reporter.log("CreateCustomer",true);
 	
 }
+	@Test
+	public  void DeleteCustomer() {
+		Reporter.log("DeleteCustomer",true);
+		
+	}
 }
